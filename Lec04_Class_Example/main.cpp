@@ -42,10 +42,10 @@ int main() {
 	cout << "Enter theMusic Title:";
 	cin >> music_title;
 	//scanf_s("%s",&music_title); 이거랑 똑같음
-	Music* reasult = myService.searchByTItle(music_title);
+	Music* result = myService.searchByTitle(music_title);
 	if (result != NULL) {
-		cout << "Found:" << result->getTilte() << "by " << result->getArtis() << endl;
-		//gettitle 앞에만 화살표인 이유 제미나이 질문
+		cout << "Found:" << result->getTitle() << "by " << result->getArtist() << endl;
+		//gettitle 앞에만 화살표인 이유 
 		
 
 	}

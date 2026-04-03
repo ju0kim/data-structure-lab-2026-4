@@ -26,11 +26,12 @@ public:
 	//getters
 
 	string getTitle() { return title; }
-	//앵 그러면 이건 다른 타이틀인가 (제미나이한테 물어보기)
+	//앵 그러면 이건 다른 타이틀인가
 	string getArtist() { return artist; }
 	string getAlbum() { return album; }
 	int getYear() { return year; }
-	
+
+};
 
 	//music streaming service class
 	class MusicStreamingService {
@@ -66,5 +67,3 @@ public:
 	
 
 
-
-};
