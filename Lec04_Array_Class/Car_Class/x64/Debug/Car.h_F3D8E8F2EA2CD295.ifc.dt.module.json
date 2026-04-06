@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Car.obj",
+            "outputs": [
+                "x64\\Debug\\Car.h_F3D8E8F2EA2CD295.ifc.dt.module.json",
+                "x64\\Debug\\Car.h_F3D8E8F2EA2CD295.ifc.dt.d.json",
+                "x64\\Debug\\Car.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\JY\\Desktop\\Lec04_Array_Class\\Car_Class\\Car.h",
+                    "source-path": "c:\\users\\jy\\desktop\\lec04_array_class\\car_class\\car.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

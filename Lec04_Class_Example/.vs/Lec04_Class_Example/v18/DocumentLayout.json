@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\JY\\Desktop\\ju0_clone\\Lec04_Class_Example\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C237D763-20CC-4CD1-A852-CC2AC9DD6BF0}|Lec04_Class_Example.vcxproj|C:\\Users\\JY\\Desktop\\ju0_clone\\Lec04_Class_Example\\Music.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C237D763-20CC-4CD1-A852-CC2AC9DD6BF0}|Lec04_Class_Example.vcxproj|solutionrelative:Music.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C237D763-20CC-4CD1-A852-CC2AC9DD6BF0}|Lec04_Class_Example.vcxproj|C:\\Users\\JY\\Desktop\\ju0_clone\\Lec04_Class_Example\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C237D763-20CC-4CD1-A852-CC2AC9DD6BF0}|Lec04_Class_Example.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C237D763-20CC-4CD1-A852-CC2AC9DD6BF0}|Lec04_Class_Example.vcxproj|C:\\Users\\JY\\Desktop\\ju0_clone\\Lec04_Class_Example\\Music.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C237D763-20CC-4CD1-A852-CC2AC9DD6BF0}|Lec04_Class_Example.vcxproj|solutionrelative:Music.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C237D763-20CC-4CD1-A852-CC2AC9DD6BF0}|Lec04_Class_Example.vcxproj|C:\\Users\\JY\\Desktop\\ju0_clone\\Lec04_Class_Example\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Music.h",
               "DocumentMoniker": "C:\\Users\\JY\\Desktop\\ju0_clone\\Lec04_Class_Example\\Music.h",
               "RelativeDocumentMoniker": "Music.h",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\JY\\Desktop\\ju0_clone\\Lec04_Class_Example\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Car.h.obj",
+            "outputs": [
+                "C:\\Users\\JY\\Desktop\\Lec04_Array_Class\\Car_Class\\x64\\Debug\\vc145.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\JY\\Desktop\\Lec04_Array_Class\\Car_Class\\x64\\Debug\\Car.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Car.h",
+                    "source-path": "c:\\users\\jy\\desktop\\lec04_array_class\\car_class\\car.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
