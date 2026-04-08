@@ -57,11 +57,22 @@ public:
 			for (int i = 0; i < musicList.size(); i++) {
 				if (musicList[i].getTitle() == title)
 					return &musicList[i];
+					// return &music~ 이거랑 musicList+i 이거랑 똑같음
 
 			}
 			return NULL;
 		}
-
+		//아티스트로검색하기
+		vector<Music*>searchByArtist(string artist) {
+			vector<Music*> result;
+			//musiclist에 있는아티스트와 입력아티스트가 같으면 리서트에 푸시백
+			for (int i = 0; i < musicList.size(); i++) {
+				if (musicList[i].getArtist() == artist) {
+					result.push_back(&musicList[i]);
+				}
+			}
+			return result;
+		}
 
 	};
 	
