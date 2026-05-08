@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\JY\\Desktop\\HelloWorld\\Lec02_Findmax\\",
+  "WorkspaceRootPath": "C:\\Users\\JY\\Desktop\\ju0_clone\\Lec02_Findmax\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{613A43D9-DFB7-4544-9111-2CC5F5988324}|Lec02_Findmax.vcxproj|C:\\Users\\JY\\Desktop\\HelloWorld\\Lec02_Findmax\\find_max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{613A43D9-DFB7-4544-9111-2CC5F5988324}|Lec02_Findmax.vcxproj|C:\\Users\\JY\\Desktop\\ju0_clone\\Lec02_Findmax\\find_max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{613A43D9-DFB7-4544-9111-2CC5F5988324}|Lec02_Findmax.vcxproj|solutionrelative:find_max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "find_max.cpp",
-              "DocumentMoniker": "C:\\Users\\JY\\Desktop\\HelloWorld\\Lec02_Findmax\\find_max.cpp",
+              "DocumentMoniker": "C:\\Users\\JY\\Desktop\\ju0_clone\\Lec02_Findmax\\find_max.cpp",
               "RelativeDocumentMoniker": "find_max.cpp",
-              "ToolTip": "C:\\Users\\JY\\Desktop\\HelloWorld\\Lec02_Findmax\\find_max.cpp",
+              "ToolTip": "C:\\Users\\JY\\Desktop\\ju0_clone\\Lec02_Findmax\\find_max.cpp",
               "RelativeToolTip": "find_max.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

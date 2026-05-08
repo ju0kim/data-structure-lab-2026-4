@@ -22,6 +22,7 @@ int main() {
 	// puppy Å×½ºÆ®
 	Puppy myPuppy("Lucky", 10, "dog", "poodle");
 	cout << "My puppy's breed is " << myPuppy.getBreed() << endl;
+	cout << myPet.getName() << myPuppy.getAge() << myPuppy.getType() << endl;
 
 	//return 0;
 
