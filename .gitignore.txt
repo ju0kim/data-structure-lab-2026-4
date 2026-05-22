@@ -1,0 +1,18 @@
+Plaintext
+# Visual Studio 임시 폴더 및 파일
+.vs/
+x64/
+Debug/
+Release/
+
+# 빌드 찌꺼기 파일들
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.tlog
+*.exe
+*.recipe
+*.ipch
+*.log
+*.lastbuildstate
