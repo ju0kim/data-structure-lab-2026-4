@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lec10_Graph/Lec10_Graph.vcxproj" Id="fc57a3e7-4208-4593-aebe-5207c8911956" />
+  <Project Path="Location2D/Location2D.vcxproj" Id="ead6d1e2-9983-427d-8d89-91d542703c86" />
+</Solution>

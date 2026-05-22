@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\AdjMatGraph.h.obj",
+            "outputs": [
+                "C:\\Users\\JY\\Desktop\\ju0_clone\\Lec10_Graph\\Lec10_Graph\\x64\\Debug\\vc145.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\JY\\Desktop\\ju0_clone\\Lec10_Graph\\Lec10_Graph\\x64\\Debug\\AdjMatGraph.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "AdjMatGraph.h",
+                    "source-path": "c:\\users\\jy\\desktop\\ju0_clone\\lec10_graph\\lec10_graph\\adjmatgraph.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
