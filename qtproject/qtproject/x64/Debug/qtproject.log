@@ -1,0 +1,6 @@
+﻿   Qt/MSBuild: 3.5.0.0
+  Reading Qt configuration (C:/Qt/6.11.1/msvc2022_64/bin/qmake)
+   Qt: 6.11.1
+  main.cpp
+  moc_MainWindow.cpp
+  qtproject.vcxproj -> C:\Users\JY\Desktop\data-structure-lab-2026-4\qtproject\x64\Debug\qtproject.exe

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\AdjMatGraph.obj",
+            "outputs": [
+                "x64\\Debug\\AdjMatGraph.h_1072D98DDBB6295A.ifc.dt.module.json",
+                "x64\\Debug\\AdjMatGraph.h_1072D98DDBB6295A.ifc.dt.d.json",
+                "x64\\Debug\\AdjMatGraph.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\JY\\Desktop\\data-structure-lab-2026-4\\Lec10_Graph\\Lec10_Graph\\AdjMatGraph.h",
+                    "source-path": "c:\\users\\jy\\desktop\\data-structure-lab-2026-4\\lec10_graph\\lec10_graph\\adjmatgraph.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
